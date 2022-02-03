@@ -6,3 +6,13 @@ Financial Inclusion remains one of the main obstacles to economic and human deve
 
 The main objective for this research is to figure out how we can predict which individuals are most likely to have or use a bank account.
 
+# Experimental Design taken
+ Deal with outliers and anomalies
+ 
+ Deal with missing data within the dataset.
+ 
+ Perform univariate, bivariate and multivariate analysis
+ 
+ Implement the solution by performing the respective analysis i.e. factor analysis, principal component analysis, and discriminant analysis.
+ 
+ Challenge your solution by providing insights on how you can make improvements.
